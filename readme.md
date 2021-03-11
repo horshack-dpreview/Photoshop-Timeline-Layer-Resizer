@@ -8,13 +8,16 @@ of each resized layer.
 
 Instructions:
 
-1. Select the layer(s) in your timeline you want to change the direction of
-2. If you also want to reposition+stagger the resized layers, move the
+1. Download the script from [here](https://raw.githubusercontent.com/horshack-dpreview/Photoshop-Timeline-Layer-Resizer/master/Photoshop%20Timeline%20Layer%20Resizer.jsx).
+2. Select the layer(s) in your timeline you want to change the direction of
+3. If you also want to reposition+stagger the resized layers, move the
    playhead to where you want the first layer to begin
-3. Run this script in Photoshop via File -> Scripts -> Browse...
-4. This script will prompt you to enter the new duration in seconds and frames
+4. Run this script in Photoshop via File -> Scripts -> Browse...
+5. This script will prompt you to enter the new duration in seconds and frames
    for the selected layers and also ask if you'd like to reposition+stagger
    the layers.
+
+
 
 For faster access to the script (via Photoshop's script menu), copy the script
 to Photoshop's script folder. Example location of the folder on Windows is
