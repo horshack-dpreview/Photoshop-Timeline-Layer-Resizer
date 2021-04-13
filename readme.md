@@ -1,3 +1,4 @@
+
 # Photoshop Timeline Layer Resizer
 
 Photoshop script that lets you resize and reposition multiple layers on
@@ -6,14 +7,14 @@ of each resized layer.
 
 ## Installation
 
-Instructions:
+ Download the script by right-clicking [here](https://raw.githubusercontent.com/horshack-dpreview/Photoshop-Timeline-Layer-Resizer/master/Photoshop%20Timeline%20Layer%20Resizer.jsx) and choosing "Save Link As..."
 
-1. Download the script by right-clicking [here](https://raw.githubusercontent.com/horshack-dpreview/Photoshop-Timeline-Layer-Resizer/master/Photoshop%20Timeline%20Layer%20Resizer.jsx) and clicking "Save Link As..."
-2. Select the layer(s) in your timeline you want to change the duration of.
-3. If you also want to reposition+stagger the resized layers, move the
+## Using the Script
+1. Select the layer(s) in your timeline you want to change the duration of.
+2. If you also want to reposition+stagger the resized layers, move the
    playhead to where you want the first layer to begin.
-4. Run this script in Photoshop via File -> Scripts -> Browse...
-5. This script will prompt you to enter the new duration in seconds and frames
+3. Run this script in Photoshop via File -> Scripts -> Browse...
+4. This script will prompt you to enter the new duration in seconds and frames
    for the selected layers and also ask if you'd like to reposition+stagger
    the layers.
 
