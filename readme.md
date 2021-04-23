@@ -5,6 +5,8 @@ Photoshop script that lets you resize and reposition multiple layers on
 a Photoshop animation timeline, including the ability to stagger the position
 of each resized layer.
 
+![Screen Shot Animation](Screenshot.gif)
+
 ## Installation
 
  Download the script by right-clicking [here](https://raw.githubusercontent.com/horshack-dpreview/Photoshop-Timeline-Layer-Resizer/master/Photoshop%20Timeline%20Layer%20Resizer.jsx) and choosing "Save Link As..."
